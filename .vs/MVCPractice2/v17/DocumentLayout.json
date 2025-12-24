@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\acern\\Desktop\\FruitablesTask\\",
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Fruit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\acern\\desktop\\fruitablestask\\mvcpractice2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\viewcomponents\\fruitviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\viewcomponents\\fruitviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|c:\\users\\classtime\\desktop\\fruit\\mvcpractice2\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4BB3A-190B-4A9D-A2AF-20585FF52F32}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Program.cs",
+              "RelativeToolTip": "MVCPractice2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:43:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\acern\\Desktop\\FruitablesTask\\MVCPractice2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\acern\\Desktop\\FruitablesTask\\MVCPractice2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCPractice2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T07:14:20.333Z",
+              "WhenOpened": "2025-12-24T14:31:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T14:30:21.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\ViewComponents\\FruitViewComponent.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\ViewComponents\\FruitViewComponent.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\ViewComponents\\FruitViewComponent.cs",
+              "RelativeToolTip": "MVCPractice2\\ViewComponents\\FruitViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:25:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "MVCPractice2\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:25:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Services\\LayoutService.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Services\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Services\\LayoutService.cs",
+              "RelativeToolTip": "MVCPractice2\\Services\\LayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:17:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Services\\Interfaces\\ILayoutService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Fruit\\MVCPractice2\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeToolTip": "MVCPractice2\\Services\\Interfaces\\ILayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:16:52.943Z",
               "EditorCaption": ""
             }
           ]
